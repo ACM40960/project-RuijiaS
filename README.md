@@ -5,10 +5,16 @@
   - [_Contents_](#Contents)
   - [_Overview_](#Overview)
   - [_Tools_](#Tools)
-
-
+  - [_Processing_](#Processing)
+    - [Dirctionary](#Dirctionary)
+    - [Data Augmentation](#Data-Augmentation)
+  - [_Summary the model_](#Summary-the-model)
+  
+  
+    
 ## _Overview_
-The overall idea of this project is to build up a Convolutional Neural Network which can automatically tell to which breed. 
+
+the idea. 
 
 
 ## _Tools_
@@ -21,8 +27,6 @@ The overall idea of this project is to build up a Convolutional Neural Network w
 
     Build environment TensorFlow
     
-
-- Python Packages
 
 
 
