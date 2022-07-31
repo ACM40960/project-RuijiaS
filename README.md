@@ -25,8 +25,15 @@ the idea.
 
 - Tensorflow 2.3.0  
 
-    Build environment TensorFlow
+    We will use the TensorFlow framework of version 2.3.0. Build a new environment for tensorflow.
     
 
 
+## _Processing_
+
+### Dirctionary
+
+### Data Augmentation
+
+## _Summary the model_
 
