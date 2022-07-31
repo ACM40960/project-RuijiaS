@@ -9,7 +9,7 @@
     - [Dirctionary](#Dirctionary)
     - [Data Augmentation](#Data-Augmentation)
     - [Experiment Result](#Experiment-Result)
-  - [_Summary the model_](#Summary-the-model)
+  - [_Summary](#Summary)
   
   
     
@@ -40,5 +40,5 @@ Show the accuracy curve and the loss.
 ![image](https://github.com/ACM40960/project-RuijiaS/blob/main/acc.jpg)
 ![image](https://github.com/ACM40960/project-RuijiaS/blob/main/loss.jpg)
 
-## _Summary the model_
+## _Summary_
 
