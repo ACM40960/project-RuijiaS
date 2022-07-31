@@ -26,7 +26,7 @@ This project presents a binary classification image recognition problem, namely 
 - Tensorflow 2.3.0  
 
     We will use the TensorFlow framework of version 2.3.0. Build a new environment for tensorflow.
-    ![image](https://github.com/ACM40960/project-RuijiaS/blob/main/environment.jpg)
+    ![image](https://github.com/ACM40960/project-RuijiaS/blob/main/environment.png)
      
 ## _Processing_
 
